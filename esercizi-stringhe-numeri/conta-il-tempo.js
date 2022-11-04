@@ -5,10 +5,6 @@
 
   Esempio:
     Input: 12560
-    Output: 3 ore, 29 minuti e 20 secondi.
-
-  Consigli:
-  In un'ora ci sono 60 minuti, in un minuto 60 secondi. Quindi quanti secondi ci sono in un'ora? ;)
-
-  http://www.imparareaprogrammare.it
+    Output: 3 ore, 29 minuti e 20 secondi
 */
+var time=0;
